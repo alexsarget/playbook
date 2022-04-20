@@ -20,7 +20,8 @@ countries.forEach((element)=>console.log(element.toUpperCase()))
 const modifiedArray = arr.map((element,index) => element);
 */
 const numbers4 = [1, 2, 3, 4, 5]
-const numbersSquare = numbers4.map(function(num){ return num * num})
+//const numbersSquare = numbers4.map(function(num){ return num * num})
+const numbersSquare=numbers4.map(num=>{return num*num})
 // También puedes escribir la función como fat arrow
 //const numbersSquare = numbers4.map((num) => return num * num)
 console.log("Ejemplo 4: Imprimiendo la lista de elementos al cuadrado")
@@ -49,7 +50,7 @@ const countriesContainingLand = countries7.filter((country) => // esta es una fu
 console.log("Ejemplo 7: Uso de filter para filtrar una lista de elementos")
 console.log(countriesContainingLand)
 const countriesEndsByia = countries.filter((country) => country.endsWith('ia'))
-console.log("Ejemplo 7: Paises que terminan en i")
+console.log("Ejemplo 7: Paises que terminan en ia")
 console.log(countriesEndsByia)
 
 // Ejemplo 8: Filtrar una lista por condicional
