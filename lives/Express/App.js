@@ -7,6 +7,12 @@ app.get('/',(req,res)=>{
     res.send("Hola a todos los explorers! aqui se vive la buena vibra")
 })
 
+
+// localhost:30007launchx
+app.get('/launchx',(req,res)=>{
+    res.send("Binevenidos a LaunchX")
+})
+
 app.listen(port,()=>{
     console.log("Server Listo")
 })
