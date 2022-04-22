@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexsarget/playbook/issues"
   },
-  "homepage": "https://github.com/alexsarget/playbook/tree/main#readme"
+  "homepage": "https://github.com/alexsarget/playbook/tree/main#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
