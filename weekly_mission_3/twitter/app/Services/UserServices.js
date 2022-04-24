@@ -1,4 +1,5 @@
 const User=require('./../models/User')
+const UserView=require('./../views/')
 
 class UserService{
     static create(id,username, name){
