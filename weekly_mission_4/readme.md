@@ -1,7 +1,7 @@
 # Weekly Mission 4
 
 ## Info. 
-Para encontrar los ejercicios de la semana 4, debes dirigirte a la seccion de abajo donde se proporciona una liga en la cual se encuentran los repositorios correspondientes a las actividades. 
+Para encontrar los ejercicios de la semana 4, debes dirigirte a la sección de abajo donde se proporciona una liga en la cual se encuentran los repositorios correspondientes a las actividades. 
 
 # Semana 4 
 
