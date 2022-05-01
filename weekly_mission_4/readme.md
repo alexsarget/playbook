@@ -11,6 +11,7 @@ Proyectos desarrollados en la semana 4:
 | ------------- |:-------------:| -----:|
 |`fizzbuzz`|1|[Link al repo](https://github.com/alexsarget/FB)|
 |`PR`|2|[Link al repo](https://github.com/alexsarget/FB)|
-|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/alexsarget/FizzBuzz_Api)|
+|`Code Challenge`|3, 4|[Link al repo](https://github.com/alexsarget/FizzBuzz_Api)|
+|`Code Challenge`|5|[Link al repo](https://github.com/alexsarget/fizzbuzz)|
 |`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
